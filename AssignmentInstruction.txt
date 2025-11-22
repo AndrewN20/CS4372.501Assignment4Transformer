@@ -1,0 +1,15 @@
+# CS4372.501Assignment4Transformer
+Assignment 4 Submission for CS4372.501 Transformer Assignment
+
+Created by Andrew Nguyen(AXN210071)
+
+HOW TO RUN: Our files would have to be run in Google Colab or Jupyter Notebook, as it is a .ipynb file. Our notebook is very simple to run, simply just copy the code from the Python notebook provided in our submission, and either press enter+shift to run a code block one at a time, or select the Runtime tab and select the Run All option in Google Colab or Jupyter Notebook. Make sure you install all of the following libraries using pip (or Anaconda if you want) and follow the instructions on installing them on the respective website:
+- Numpy: (https://numpy.org/install/)
+- Transformer: (https://pypi.org/project/transformers/)
+- Rouge-Score: (https://pypi.org/project/rouge-score/)
+- TextWrap: (https://docs.python.org/3/library/textwrap.html)
+- Matplotlib: (https://matplotlib.org/3.5.3/users/getting_started/index.html)
+
+NOTE: 
+- Only run the inpyb in Google Colab
+- For adding the text files to the correct file directory, refer to the image in the file that shows the correction location to put the files
